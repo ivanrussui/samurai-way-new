@@ -1,0 +1,12 @@
+.header {
+    position: relative;
+    grid-area: h;
+    background-color: indigo;
+    display: flex;
+    justify-content: space-between;
+}
+
+img {
+    display: inline-block;
+    height: 100%;
+}
